@@ -1,0 +1,58 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 21 Jan 2025 13:43:51 at https://motohom.co.in/influencer/index.php +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://motohom.co.in/influencer/index.php -O1 "C:\My Web Sites\motohom_copy" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:46:21	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/css/century-gothic-font/CenturyGothic.woff2 (from https://motohom.co.in/influencer/index.php)
+13:46:21	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/css/century-gothic-font/GOTHICB0.woff2 (from https://motohom.co.in/influencer/index.php)
+13:46:21	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/css/fonts/flaticon.ttf?1df927c (from https://motohom.co.in/influencer/index.php)
+13:46:21	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/css/fonts/fa-light-300.woff2 (from https://motohom.co.in/influencer/index.php)
+13:46:21	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/css/fonts/fa-solid-900.woff2 (from https://motohom.co.in/influencer/index.php)
+13:46:21	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/banner/1.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/banner/2.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/banner/3.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/fs.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/fl.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/about.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/t.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/t1.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/t2.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/t3.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/u.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/u1.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/u2.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/u3.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/m.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/m1.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/m2.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/m3.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/v.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/v1.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/v2.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/v3.avif
+13:46:27	Warning: 	File not parsed, looks like binary: https://motohom.co.in/influencer/assets/images/resource/works.avif
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/fonts/fa-brands-400.svg (from https://motohom.co.in/influencer/assets/css/font-awesome-all.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/fonts/fa-light-300.eot (from https://motohom.co.in/influencer/assets/css/font-awesome-all.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/fonts/fa-light-300.eot? (from https://motohom.co.in/influencer/assets/css/font-awesome-all.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/fonts/fa-light-300.ttf (from https://motohom.co.in/influencer/assets/css/font-awesome-all.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/fonts/fa-light-300.svg (from https://motohom.co.in/influencer/assets/css/font-awesome-all.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/fonts/fa-regular-400.ttf (from https://motohom.co.in/influencer/assets/css/font-awesome-all.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/fonts/fa-regular-400.svg (from https://motohom.co.in/influencer/assets/css/font-awesome-all.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/fonts/fa-solid-900.eot (from https://motohom.co.in/influencer/assets/css/font-awesome-all.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/fonts/fa-solid-900.eot? (from https://motohom.co.in/influencer/assets/css/font-awesome-all.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/fonts/fa-solid-900.ttf (from https://motohom.co.in/influencer/assets/css/font-awesome-all.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/fonts/fa-solid-900.svg (from https://motohom.co.in/influencer/assets/css/font-awesome-all.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/css/owl.video.play.png (from https://motohom.co.in/influencer/assets/css/owl.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/css/century-gothic-font/CenturyGothic.woff (from https://motohom.co.in/influencer/assets/css/style.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/assets/css/century-gothic-font/GOTHICB0.woff (from https://motohom.co.in/influencer/assets/css/style.css)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/a (from https://connect.facebook.net/en_US/fbevents.js)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/POST (from https://connect.facebook.net/en_US/fbevents.js)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/influencer/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+13:46:27	Error: 	"Read error when decompressing" (-1) at link https://motohom.co.in/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 36 seconds : 127 links scanned, 102 files written (6522937 bytes overall) [6197789 bytes received at 39729 bytes/sec], 523879 bytes transferred using HTTP compression in 29 files, ratio 27%
+(24 errors, 23 warnings, 0 messages)
